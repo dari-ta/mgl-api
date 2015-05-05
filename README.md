@@ -1,2 +1,4 @@
-# mgl-api
-unofficial MGL App API
+# unofficial MGL App API
+
+This is the API for the unofficial MGL App
+
